@@ -8,6 +8,7 @@ function MyApp({ Component, pageProps }) {
     <>
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Upcoming Events</title>
       </Head>
       <Layout>
         <Component {...pageProps} />
